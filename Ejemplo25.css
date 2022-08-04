@@ -1,0 +1,8 @@
+.contenedor{
+    display:flex;
+    background-color: skyblue;    
+}
+    .elemento:nth-child(even){
+    order:1;
+    
+    }
